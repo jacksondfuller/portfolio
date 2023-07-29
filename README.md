@@ -1,6 +1,6 @@
 # Jackson Fuller Portfolio
 
-## Menstruation Twitter Classification and Sentiment Analysis
+## [Menstruation Twitter Classification and Sentiment Analysis](https://github.com/LoveYourMenses/twitter-attitudes/)
 
 ## Market Customer Segmentation
 
