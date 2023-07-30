@@ -2,8 +2,8 @@
 
 ## [Menstruation Twitter Classification and Sentiment Analysis](https://github.com/LoveYourMenses/twitter-attitudes/)
 
-## [Marketing Customer Segmentation]()
+## [Marketing Customer Segmentation](https://github.com/jacksondfuller/customer_segmentation)
 
-## [Retail Sales Forecasting]()
+## [Retail Sales Forecasting](https://github.com/jacksondfuller/retail_sales)
 
-## [Loan Default Predictor]()
+## [Loan Default Predictor](https://github.com/jacksondfuller/loan_default)
