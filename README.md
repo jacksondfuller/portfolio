@@ -7,7 +7,7 @@ Objective: To understand key topics and themes, and prevailing sentiments of men
 - Fit Short Text Topic Modeling (STTM) algorithm to tweets with k=5 to create clusters of tweets with common topic categories
 - Employed VADER sentiment analysis tool to analyze polarity of tweets by respective topic
 
-![](https://github.com/jacksondfuller/portfolio/blob/main/images/wordcloud_menstruation.jpeg)
+![](/images/wordcloud_menstruation.jpeg)
 
 ## [Marketing Customer Segmentation](https://github.com/jacksondfuller/customer_segmentation)
 Objective: To identify distinct segments in the current customer base in order to target future marketing campaigns
@@ -16,7 +16,7 @@ Objective: To identify distinct segments in the current customer base in order t
 - Used Sum of Squared Error (SSE) to determine optimal K value
 - Built and compared K-means, Gaussian Mixture (GMM), and K-medoids models to investigate cluster profiles of customers
 
-![](https://github.com/jacksondfuller/portfolio/blob/main/images/kmeans_segments.jpeg)
+![](/images/kmeans_segments.jpeg)
 
 ## [Retail Sales Forecasting](https://github.com/jacksondfuller/retail_sales)
 Objective: To build a model that accurately forecasts retail sales using the past quarter’s data
@@ -25,11 +25,11 @@ Objective: To build a model that accurately forecasts retail sales using the pas
 - Tuned ordinary least squares model accounting for insignificant variables
 - Applied cross-validation and used r squared and mean squared error to evaluate models
 
-![](https://github.com/jacksondfuller/portfolio/blob/main/images/corr_sales.jpeg)
+![](/images/corr_sales.jpeg)
 
 ## [Loan Default Predictor](https://github.com/jacksondfuller/loan_default)
 Objective: To build a classification model to best predict when customers of a bank will default on a loan
 - Built and compared models using linear discriminant analysis (LDA), quadratic discriminant analysis (QDA), logistic regression, and K-nearest neighbors (KNN)
 - Compared all models using only balance as a feature vs using all features
 
-![](https://github.com/jacksondfuller/portfolio/blob/main/images/knn_loan.png)
+![](/images/knn_loan.png)
