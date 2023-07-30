@@ -2,8 +2,8 @@
 
 ## [Menstruation Twitter Classification and Sentiment Analysis](https://github.com/LoveYourMenses/twitter-attitudes/)
 
-## Marketing Customer Segmentation
+## [Marketing Customer Segmentation]()
 
-## Boston Housing Price Estimator
+## [Retail Sales Forecasting]()
 
-## Loan Default Predictor
+## [Loan Default Predictor]()
